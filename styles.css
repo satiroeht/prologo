@@ -22,4 +22,8 @@ body {
 	p {
 		font-size: 2rem;
 	}
+
+	.invisivel {
+		color: transparent;
+	}
 }
